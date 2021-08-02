@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+.card-white{
+  width: 800px;
+  font-size: 20px;
+  margin: 60px 0px;
+}
+
+
+body{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 25px;
+}
+
+
+h1,h2,h3{
+	font-family: 'Poppins', sans-serif;
+}
+
