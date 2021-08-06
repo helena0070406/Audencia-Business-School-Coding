@@ -1,4 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@300&display=swap");
+/* import links.. */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Poppins:wght@300&display=swap");    
 
 @import url("components/container.css");
 @import url("components/button.css");
@@ -6,7 +7,7 @@
 @import url("components/card.css");
 
 
-
+/* related class, and decorate the website. */
 .card-white{
   width: 800px;
   font-size: 20px;
