@@ -16,7 +16,8 @@
 
 
 .card img{
-	width: 180px;
+    padding-right: 30px;
+    width: 180px;
     border-radius: 8px;
 }
 
@@ -25,6 +26,3 @@
 	font-size: 25px;
 }
 
-.card a{
-    padding-left: 20px;
-}
