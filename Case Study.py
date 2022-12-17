@@ -1,5 +1,5 @@
-# Audencia Finance Case Study about Blue Corporation 
-# Yinli ZHANG/ Haiwei FU
+
+
 
 ##################################################################################################################################################
 # import libraries and database.
